@@ -13,6 +13,6 @@ As well as providing SNMPv1 and v2c community dictionary attacks is will also pr
 • SNMPv3 Auth SHA Priv DES
 • SNMPv3 Auth SHA Priv 3DES
 
-Whilst multiprocessing is currently used to speed up testing with parallel processes the future plans. A library version of this code is also utilised as part of the ORR project.
+Whilst multiprocessing is currently used to speed up testing with parallel processes the future plan is to include distributed processing to enable testing of large networks. A library version of this code is also utilised as part of the ORR project.
 
 The current source code for this tool is included below on an as is basis. It may need to be reformatted to remove syntax and indenting errors introduced by providing the source in this format. Please see the License/Disclaimer below before using this software
