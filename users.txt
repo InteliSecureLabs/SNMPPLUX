@@ -1,0 +1,8 @@
+bootstrap
+demo
+admin
+authOnlyUser
+authPrivUser
+rwuser
+private
+rouser
