@@ -6,3 +6,4 @@ authPrivUser
 rwuser
 private
 rouser
+superuser
