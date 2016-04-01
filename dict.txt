@@ -42,6 +42,7 @@ snmpd
 solaris
 sun
 switch
+zeberdee
 system
 tech
 test
